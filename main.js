@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#!/usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 const randomNumber = 11000 + Math.floor(Math.random() * 12000);
